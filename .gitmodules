@@ -1,0 +1,3 @@
+[submodule "src/popup"]
+	path = src/popup
+	url = https://github.com/ciiiii/iconService.git
